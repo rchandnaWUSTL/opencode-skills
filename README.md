@@ -7,6 +7,8 @@ A collection of [OpenCode](https://opencode.ai) skills for PMs and technical fol
 | Skill | What it does |
 |---|---|
 | [`terminal-demo`](./skills/terminal-demo/SKILL.md) | Create polished terminal/CLI demo recordings as mp4 or gif |
+| [`thought-partner`](./skills/thought-partner/SKILL.md) | Structured product thinking framework -- JTBD, friction diagnosis, SCAMPER -- before committing to a solution |
+| [`prd-generator`](./skills/prd-generator/SKILL.md) | Generate a Product Requirements Document from customer evidence and context |
 
 ---
 
