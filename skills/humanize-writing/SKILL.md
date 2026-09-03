@@ -31,6 +31,7 @@ Check every one. They cluster; one hit is style, three is a diagnosis.
 **Constructions**
 - The negation-reveal: "It's not X. It's Y." / "This isn't about X, it's about Y." State Y.
 - Significance flourishes: "It's important to note," "crucially," "a testament to," "what's remarkable is." Delete; if the point matters, the content shows it.
+- Register announcements that perform candor or precision: "One honest caveat," "to be honest," "let me be direct," "here's the thing," "fair question." Say the sentence, skip the label for it.
 - Hedging filler: "generally speaking," "to some extent," "in many ways." Delete or commit.
 - Cute metaphors doing work a plain word could do: "house rules," "north star," "secret sauce."
 - Wrap-up paragraphs that restate what was just said. End on the last new fact.
