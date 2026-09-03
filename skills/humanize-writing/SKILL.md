@@ -37,7 +37,8 @@ Check every one. They cluster; one hit is style, three is a diagnosis.
 - Wrap-up paragraphs that restate what was just said. End on the last new fact.
 
 **Vocabulary**
-- AI-era words: delve, tapestry, robust, seamless, leverage (as a verb), streamline, underscore, pivotal, crucial, foster, boast, comprehensive, journey, landscape, empower, elevate.
+- AI-era words (kill on sight): delve, tapestry, robust, seamless, leverage (as a verb), streamline, underscore, pivotal, crucial, foster, boast, comprehensive, journey, landscape, empower, elevate, meticulous, adept, realm, swift, garner, showcase, testament, intricate, "the shift we're seeing".
+- Register tics: small metaphor verbs and jargon nouns that are fine once and a tell on repeat: land, ship, surface (as a verb), unlock, unpack, double-click, lean into, crisp, tight, sharp, killer, gold, beat (for a segment), story (for an argument), moment, north star, "the ask". Detection is frequency, not presence: if a word does metaphor duty three or more times in a piece, replace most instances with the plain verb (arrives, finishes, shows, section, argument).
 - Stacked adjectives: "a powerful, flexible, intuitive tool." One adjective, or a fact instead.
 - Puffery instead of evidence: "significantly improves" with no number. Use the number or cut the claim.
 
