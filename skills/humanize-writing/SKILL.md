@@ -1,6 +1,6 @@
 ---
 name: humanize-writing
-description: Remove AI-writing tells from prose, docs, UI strings, scripts, and emails so the text reads like a person wrote it. Use when asked to de-AI, humanize, "make this not sound like AI," sweep for AI tells, or polish copy before an audience that punishes AI slop (take-homes, execs, Hacker News).
+description: Remove AI-writing tells from prose, docs, UI strings, scripts, and emails so the text reads like a person wrote it. Use when asked to de-AI, humanize, "make this not sound like AI," sweep for AI tells, or polish copy before an audience that punishes AI slop.
 ---
 
 # Skill: Humanize Writing
