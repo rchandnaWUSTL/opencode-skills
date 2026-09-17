@@ -23,7 +23,6 @@ Before writing, ask for anything missing that materially changes the document:
 - Company name and one-line company description (for the dateline)
 - Product name
 - Target launch timeframe (for the dateline date)
-- Whether a real customer has agreed to be quoted
 
 If the user doesn't want to answer, use placeholders and flag them.
 
@@ -87,9 +86,9 @@ Eight elements, fixed order. Write as if the feature already shipped. Past and p
 - *Until finally...* -- resolution
 - *And ever since that day...* -- the new normal
 
-It shouldn't read like it follows a formula word-for-word, but the arc must be there: status quo, disruption, action, resolution, new normal. Ground the "before" beats in actual workarounds from the evidence -- that's what makes a fictional quote credible.
+It shouldn't read like it follows a formula word-for-word, but the arc must be there: status quo, disruption, action, resolution, new normal. Ground the "before" beats in actual workarounds from the evidence -- that's what makes an aspirational quote credible.
 
-Use a clearly fictional persona by default (e.g. "Jane Doe, Director of Platform Engineering at Example Corp"). Only use a real customer name if the user confirms that customer has agreed to be quoted.
+Both quotes are mock and aspirational -- this is a document about a product that doesn't exist yet. Attribute the customer quote to an invented persona (e.g. "Jane Doe, Director of Platform Engineering at Example Industries"). The job is to write the reaction you'd want a real customer to have. If you can't write a quote anyone would plausibly say, that's the finding.
 
 **Exec quote.** Lead with empathy, then announce. Structure:
 
@@ -157,7 +156,7 @@ Leave reviewer names blank unless provided. Adjust rows to fit the org if the us
 
 1. **Announcement tone, not template tone.** Write like a real product announcement. No superlatives -- "revolutionary", "groundbreaking", "game-changing" all mean nothing. If the feature is good, describing it plainly is enough.
 2. **Customer-centric framing.** "Customers can now choose their scanning provider," not "We built a provider abstraction layer." Every section centers on what the customer can do.
-3. **Evidence-grounded.** Fictional quotes still reflect real workarounds. FAQs anticipate questions people actually asked.
+3. **Evidence-grounded.** The quotes are aspirational, but the pain they describe is real -- pull the "before" from actual workarounds in the evidence. FAQs anticipate questions people actually asked.
 4. **Honest about unknowns.** TBDs with exit conditions. Never present a guess as a decision.
 5. **No filler.** If an answer is "we don't know yet", say that and say what would resolve it. Don't pad.
 6. **Specific over vague.** Name the thing.
