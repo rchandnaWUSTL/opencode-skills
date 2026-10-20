@@ -10,7 +10,7 @@ A collection of [OpenCode](https://opencode.ai) skills for PMs and technical fol
 | [`thought-partner`](./skills/thought-partner/SKILL.md) | Structured product thinking framework -- JTBD, friction diagnosis, SCAMPER -- before committing to a solution |
 | [`prd-generator`](./skills/prd-generator/SKILL.md) | Generate a Product Requirements Document from customer evidence and context |
 | [`prfaq-generator`](./skills/prfaq-generator/SKILL.md) | Generate a working-backwards PRFAQ -- press release plus external and internal FAQs -- from a PRD or raw evidence |
-| [`create-presentation`](./skills/create-presentation/SKILL.md) | Build a HashiCorp internal presentation deck (pptx) from scratch using python-pptx |
+| [`create-presentation`](./skills/create-presentation/SKILL.md) | Build a HashiCorp internal presentation deck (pptx) from scratch using python-pptx, in the dark Helios style, with a reusable layout kit |
 | [`humanize-writing`](./skills/humanize-writing/SKILL.md) | Remove AI-writing tells from prose and UI copy so text reads like a person wrote it |
 
 ---
