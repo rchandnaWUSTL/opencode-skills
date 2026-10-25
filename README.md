@@ -12,6 +12,7 @@ A collection of [OpenCode](https://opencode.ai) skills for PMs and technical fol
 | [`prfaq-generator`](./skills/prfaq-generator/SKILL.md) | Generate a working-backwards PRFAQ -- press release plus external and internal FAQs -- from a PRD or raw evidence |
 | [`create-presentation`](./skills/create-presentation/SKILL.md) | Build a HashiCorp internal presentation deck (pptx) from scratch using python-pptx, in the dark Helios style, with a reusable layout kit |
 | [`humanize-writing`](./skills/humanize-writing/SKILL.md) | Remove AI-writing tells from prose and UI copy so text reads like a person wrote it |
+| [`learn-by-building`](./skills/learn-by-building/SKILL.md) | Turn "I want to learn X" into a lean project where the AI teaches and quizzes instead of doing the work, and scaffold a repo that runs each 30-minute session (includes `templates/` and `references/`, so install the whole folder) |
 
 ---
 
