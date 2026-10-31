@@ -125,22 +125,6 @@ Display to the user. Save to a file only if explicitly requested.
 - **Why not both?** ...
 - **Make it unnecessary:** ...
 - **Cross-domain:** ...
-
-### Recommendation
-**Proceed?** Yes / Yes with modifications / Explore alternative first / No
-**Rationale:** ...
-**Watch out for:** ...
-**Alternatives worth exploring:** ...
 ```
 
 ---
-
-## Behavior
-
-1. Generate the full analysis
-2. Display it to the user
-3. Pause and ask how to proceed:
-   - **"Proceed"**: Run the downstream task if one was queued, otherwise done
-   - **"Explore [alternative]"**: Re-run on the specified alternative
-   - **"Proceed with [modifications]"**: Pass modifications as context to the downstream task
-   - **"Stop"**: End with no further action
